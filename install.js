@@ -14,7 +14,7 @@ try {
   // do nothing
 }
 
-const platform = os.platform()
+const platform = 'linux'
 const platforms = {
   darwin: 'mac',
   linux: 'linux',
